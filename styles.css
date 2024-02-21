@@ -1,0 +1,21 @@
+
+body {
+    text-align: center;
+        }
+
+        .button-container {
+            margin-top: 50px; /* Ajusta este valor según sea necesario */
+        }
+
+        .button-container a {
+            margin: 0 10px; /* Espacio entre los botones */
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007bff; /* Cambia el color de fondo según tus preferencias */
+            color: #180202; /* Cambia el color del texto según tus preferencias */
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+
